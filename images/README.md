@@ -1,1 +1,1 @@
-file for saved images
+folder for saved images
