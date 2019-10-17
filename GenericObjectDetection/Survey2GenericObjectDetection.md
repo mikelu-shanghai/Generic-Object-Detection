@@ -52,5 +52,5 @@
 
 ###  REFERENCE
 
-[1] Li Liu, Wanli Ouyang, Xiaogang Wang, etal. Deep Learning for Generic Object Detection: A Survey [VISI'19]  [(arXiv)](https://arxiv.org/abs/1809.02165)
+[1] Li Liu, Wanli Ouyang, Xiaogang Wang, et al. Deep Learning for Generic Object Detection: A Survey [VISI'19]  [(arXiv)](https://arxiv.org/abs/1809.02165)
 
