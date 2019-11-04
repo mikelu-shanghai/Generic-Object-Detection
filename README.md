@@ -5,6 +5,8 @@ Summary Notes of Model/Algorithm/Architecture Evolution and Performance Benchmar
 
 ## Collection of Milestone Models & Implementations
 
+- **[R-CNN]** Ross Girshick, et al. Rich feature hierarchies for accurate object detection and semantic segmentation. **[CVPR' 14]** [(pdf)](https://arxiv.org/pdf/1311.2524.pdf) | **[Code]** [(official-Caffe)](https://github.com/rbgirshick/rcnn) 
+- **[OverFeat]** Pierre Sermanet, et al. OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks. **[ICLR' 14]** [(pdf)](https://arxiv.org/pdf/1312.6229.pdf) |  **[Code]** [(official-Torch)](https://github.com/sermanet/OverFeat) 
 
 
 
